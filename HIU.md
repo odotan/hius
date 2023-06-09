@@ -1,0 +1,1 @@
+HiU's Proof of Engagement (PoE) game enables human interaction as a reward mechanism for app/website use. Users accumulate points through ping-pong game, exchangeable for rewards or functions. Non-linear scoring incentivizes quick responses, and game stops if no response in set time.
