@@ -35,16 +35,24 @@
             "id": "563c30a117613055",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "zk.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-06-09 16.01.42.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d2ea70b016e4dc64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zk.md",
+                "file": "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zk.md",
+                "file": "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zk.md"
+                "file": "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md"
               }
             }
           }
@@ -174,15 +182,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "563c30a117613055",
+  "active": "d2ea70b016e4dc64",
   "lastOpenFiles": [
-    "XMTP.md",
+    "Excalidraw/Drawing 2023-06-09 16.01.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-09 22.56.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-09 22.56.57_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-09 22.56.57.excalidraw.md",
+    "Ideas1.md",
     "zk.md",
-    "ai-prompts/XMTP.md",
     "Pasted image 20230610024803.png",
+    "XMTP.md",
+    "Untitled.md",
+    "ai-prompts/XMTP.md",
     "HIU.md",
     "Ideas2.md",
-    "Ideas1.md",
     "knowledge-base",
     "node_modules/pinia/dist/pinia.prod.cjs",
     "node_modules/pinia/dist/pinia.mjs",
@@ -208,12 +222,6 @@
     "node_modules/undici/docs/assets/lifecycle-diagram.png",
     "node_modules/undici/docs/api/WebSocket.md",
     "node_modules/undici/docs/api/ProxyAgent.md",
-    "node_modules/undici/docs/api/PoolStats.md",
-    "node_modules/undici/docs/api/Pool.md",
-    "node_modules/undici/docs/api/MockPool.md",
-    "node_modules/undici/docs/api/MockErrors.md",
-    "node_modules/undici/docs/api/MockAgent.md",
-    "node_modules/undici/docs/api/Fetch.md",
     "app/src/assets/vue.svg",
     "app/public/vite.svg",
     "app/vite-project/src/assets/vue.svg",

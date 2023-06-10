@@ -1,17 +1,16 @@
-<template>
-  <div>
-    <button v-if="isMetamaskInstalled" @click="login">Login with Metamask</button>
-    <p v-if="!isMetamaskInstalled">Metamask is not installed</p>
-  </div>
+<template lang="pug">
+.account
+  .must-download-metamask(v-if="!isMetamaskInstalled") Metamask is not installed
+  button(v-if="!!isMetamaskInstalled && !!user" @click="login") Login with Metamask
+  button(v-else @click="logOut") Logout
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue';
 import { useAccountStore } from '../store/account';
-const { setAddress } = useAccountStore();
+const { user, setAddress, logIn, logOut } = useAccountStore();
 
 const isMetamaskInstalled =   ref(false);
-
 const checkMetamaskInstalled = () => {
   if (typeof window.ethereum !== 'undefined') {
     isMetamaskInstalled.value = true;
@@ -28,7 +27,7 @@ const login = () => {
           const address = accounts[0];
           console.log('Logged in with address:', address);
           // save address in the user store
-          setAddress(address)
+          logIn(address)
         })
         .catch((error) => {
           console.error('Login error:', error);

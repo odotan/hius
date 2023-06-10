@@ -11,7 +11,7 @@
   "dependencies": {
     "@vueuse/core": "^10.1.2",
     "@xmtp/xmtp-js": "^9.1.6",
-    "ethers": "^6.5.1",
+    "ethers": "^5.7.2",
     "js-base64": "^3.7.5",
     "normalize.css": "^8.0.1",
     "pinia": "^2.1.3",

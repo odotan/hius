@@ -12,10 +12,10 @@ Suspense
     .loading
       h1 Loading...
   .container
-    header
+    .main-header
       AnimatedLogo
       UserControls
-    section
+    .main-section
       UserCard
       xmtp
       hello-world
@@ -45,7 +45,7 @@ html, body, #app
   justify-content center
   align-items center
   flex-direction column
-  header
+  .main-header
     display flex
     width 100%
     flex-direction row

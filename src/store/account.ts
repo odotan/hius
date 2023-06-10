@@ -15,19 +15,22 @@ export interface Account {
 }
 export const useAccountStore = defineStore('account', () => {
     let uuid = crypto.randomUUID();
-    const user = ref<RemovableRef<Account>>(
-        useLocalStorage('account', {
-            id: uuid,
-        })
+    const user = ref<RemovableRef<null| Account>>(
+        useLocalStorage('account', null)
     );
+
     const signer = ref<any>(null)
 
-    function setAddress(address: string) {
-        user.value.walletAddress = address;
+    function logIn(address: string) {
+        user.value =
+            {
+                id: uuid,
+                walletAddress: address
+            }
     }
-    function setSigner(a: string) {
-        signer.value = a;
+    function logOut() {
+        user.value = null;
     }
 
-    return { user, signer, setAddress, setSigner };
+    return { user, signer, logIn, logOut };
 })
