@@ -8,16 +8,13 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 import { useAccountStore } from '../store/account';
-const {setAddress, setSigner} = useAccountStore();
-import { ethers } from 'ethers';
+const { setAddress } = useAccountStore();
 
-const isMetamaskInstalled = ref(false);
+const isMetamaskInstalled =   ref(false);
 
 const checkMetamaskInstalled = () => {
   if (typeof window.ethereum !== 'undefined') {
     isMetamaskInstalled.value = true;
-    // const provider = new ethers.providers.Web3Provider(window.ethereum);
-    // setSigner(provider.getSigner());
   } else {
     isMetamaskInstalled.value = false;
   }

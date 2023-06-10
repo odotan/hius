@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 import Swag from "./components/Swag.vue";
 import Xmtp from "./components/xmtp.vue";
-import MetaMaskLogin from "./components/MetaMaskLogin.vue";
 import UserCard from "./components/UserCard.vue";
+import AnimatedLogo from "./components/AnimatedLogo.vue";
+import UserControls from "./components/UserControls.vue";
+import HelloWorld from "./components/HelloWorld.vue";
 </script>
 <template lang="pug">
 Suspense
@@ -13,11 +14,11 @@ Suspense
   .container
     header
       AnimatedLogo
-      UserBlock
+      UserControls
     section
       UserCard
-      Swag
       xmtp
+      hello-world
 </template>
 
 <style lang="stylus">
@@ -37,11 +38,16 @@ html, body, #app
 .secondary-text
   color #CCC5B9
 .secondary-background
-  background-color #CCC5B9
+  background-color #403d39
 
 .container
   display flex
   justify-content center
   align-items center
   flex-direction column
+  header
+    display flex
+    width 100%
+    flex-direction row
+    justify-content space-between
 </style>

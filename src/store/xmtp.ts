@@ -1,8 +1,7 @@
 import { defineStore } from 'pinia';
 import { Client, Conversation } from '@xmtp/xmtp-js';
-import {ethers, Wallet} from 'ethers';
+import {ethers} from 'ethers';
 import { ref, Ref } from 'vue';
-
 interface Message {
     id: string;
     senderAddress: string;
@@ -35,17 +34,11 @@ export const useXmtpStore =  defineStore('xmtp', () => {
     }
 
     // Setup the XMTP client and conversation
-    async function setupXmtp() {
+    async function setupXmtp(signer) {
         // const wallet = Wallet.createRandom();
         // const xmtp = await Client.create(wallet);
 
-        if (typeof window.ethereum !== 'undefined') {
-
-            // neat way to connect to metamask - this auto-logins the user
-            const provider = new ethers.providers.Web3Provider(window.ethereum);
-            const signer = provider.getSigner();
-
-
+        if (typeof window?.ethereum !== 'undefined') {
             const xmtp = await Client.create(signer);
             const newConversation = await xmtp.conversations.newConversation(
                 '0x3F11b27F323b62B159D2642964fa27C46C841897'
@@ -57,11 +50,10 @@ export const useXmtpStore =  defineStore('xmtp', () => {
         }
     }
 
-    setupXmtp();
-
     return {
         messages,
         sendMessage,
+        setupXmtp
     };
 });
 

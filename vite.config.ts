@@ -23,4 +23,9 @@ export default defineConfig({
     }),
     vue()
   ],
+  resolve: {
+    alias: {
+      web3: 'web3/dist/web3.min.js',
+    },
+  },
 })

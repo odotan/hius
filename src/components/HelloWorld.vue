@@ -60,7 +60,7 @@ async function getHash(i:string) {
 
 function checkHash(str:string): boolean {
   // return true if the string contains "HiU"
-  const prefix = "hih"
+  const prefix = "hi"
   return str.includes(prefix)
 }
 
