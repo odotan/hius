@@ -4,55 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e279fd9c2937cf1a",
+        "id": "730fc88e6b57fd03",
         "type": "tabs",
         "children": [
           {
-            "id": "87c6349874404fe8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "77d758856e945ead",
+            "id": "9b41f0bc6f156fb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas1.md",
+                "file": "HIU.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73db6bb0af0101a5",
+            "id": "655a9ebef365fed6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f8929eacdd8545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas2.md",
+                "file": "XMTP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas2.md",
+                "file": "XMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas2.md",
+                "file": "XMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas2.md"
+                "file": "XMTP.md"
               }
             }
           }
@@ -178,46 +158,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60f8929eacdd8545",
+  "active": "655a9ebef365fed6",
   "lastOpenFiles": [
-    "app/src/components/HelloWorld.vue~",
+    "Pasted image 20230610024803.png",
+    "HIU.md",
+    "Ideas2.md",
+    "XMTP.md",
     "Ideas1.md",
-    "app/node_modules/picocolors/types.ts",
-    "app/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
-    "app/node_modules/minimatch/dist/mjs/ast.d.ts",
-    "app/vite.config.ts.timestamp-1686321409781-4488747a73e99.mjs",
-    "app/vite.config.ts.timestamp-1686321259865-d2334005a600f.mjs",
-    "app/src/App.vue~",
-    "app/vite.config.ts.timestamp-1686320978953-cf668ae3a8f14.mjs",
-    "app/node_modules/concat-map/example/map.js",
-    "app/node_modules/concat-map/example",
-    "app/node_modules/ms/license.md",
-    "app/node_modules/pug-strip-comments/README.md",
-    "app/node_modules/pug-strip-comments/CHANGELOG.md",
-    "app/node_modules/pug-strip-comments/LICENSE.md",
-    "app/node_modules/js-stringify/README.md",
-    "app/node_modules/acorn/README.md",
-    "app/node_modules/acorn/CHANGELOG.md",
-    "app/node_modules/@babel/helper-string-parser/README.md",
-    "app/node_modules/@babel/helper-validator-identifier/README.md",
-    "app/node_modules/is-core-module/README.md",
-    "app/node_modules/is-core-module/CHANGELOG.md",
-    "app/node_modules/@babel/types/README.md",
-    "app/node_modules/resolve/SECURITY.md",
-    "app/node_modules/with/README.md",
-    "app/node_modules/is-regex/README.md",
-    "app/node_modules/is-regex/CHANGELOG.md",
-    "app/node_modules/call-bind/README.md",
-    "app/node_modules/call-bind/CHANGELOG.md",
-    "app/node_modules/doctypes/README.md",
-    "app/node_modules/doctypes/HISTORY.md",
-    "app/node_modules/pug-load/README.md",
-    "app/node_modules/pug-load/HISTORY.md",
-    "app/node_modules/pug-linker/README.md",
-    "app/node_modules/pug-linker/HISTORY.md",
+    "ai-prompts/XMTP.md",
+    "knowledge-base",
+    "node_modules/pinia/dist/pinia.prod.cjs",
+    "node_modules/pinia/dist/pinia.mjs",
+    "node_modules/pinia/dist/pinia.iife.js",
+    "node_modules/pinia/dist/pinia.iife.prod.js",
+    "node_modules/pinia/dist/pinia.d.ts",
+    "node_modules/pinia/dist/pinia.esm-browser.js",
+    "node_modules/pinia/dist/pinia.cjs",
+    "node_modules/pinia/README.md",
+    "node_modules/pinia/package.json",
+    "node_modules/pinia/index.cjs",
+    "node_modules/vue-demi/README.md",
+    "node_modules/vue/dist/README.md",
+    "node_modules/vue/README.md",
+    "node_modules/streamsearch/README.md",
+    "node_modules/protobufjs/ext/descriptor/README.md",
+    "node_modules/protobufjs/ext/debug/README.md",
+    "node_modules/@xmtp/xmtp-js/README.md",
+    "node_modules/undici/docs/best-practices/mocking-request.md",
+    "node_modules/undici/docs/best-practices/writing-tests.md",
+    "node_modules/undici/docs/best-practices/proxy.md",
+    "node_modules/undici/docs/best-practices/client-certificate.md",
+    "node_modules/undici/docs/assets/lifecycle-diagram.png",
+    "node_modules/undici/docs/api/WebSocket.md",
+    "node_modules/undici/docs/api/ProxyAgent.md",
+    "node_modules/undici/docs/api/PoolStats.md",
+    "node_modules/undici/docs/api/Pool.md",
+    "node_modules/undici/docs/api/MockPool.md",
+    "node_modules/undici/docs/api/MockErrors.md",
+    "node_modules/undici/docs/api/MockAgent.md",
+    "node_modules/undici/docs/api/Fetch.md",
     "app/src/assets/vue.svg",
     "app/public/vite.svg",
     "app/vite-project/src/assets/vue.svg",
