@@ -1,7 +1,7 @@
-HiU - Human interaction Unit
+[[HiU]] - Human interaction Unit
 
-PoE - Proof of Engagement
-PoI - Proof of Interaction
+[[PoE]] - Proof of Engagement
+[[PoI]] - Proof of Interaction
 
 PoE, or Proof of Engagement, refers to the evidence that shows how involved a user is with a particular application or service. It can include metrics such as time spent on the platform, frequency of use, and the level of interaction with other users or content. PoE is important for understanding user behavior and improving user experience.
 

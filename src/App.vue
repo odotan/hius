@@ -6,6 +6,7 @@ import AnimatedLogo from "./components/AnimatedLogo.vue";
 import UserControls from "./components/UserControls.vue";
 import HelloWorld from "./components/HelloWorld.vue";
 import EthScan from "./components/EthScan.vue";
+import ScreenWithButtons from "./components/ScreenWithButtons.vue";
 </script>
 <template lang="pug">
 Suspense
@@ -17,6 +18,7 @@ Suspense
       AnimatedLogo
       UserControls
     .main-section
+      ScreenWithButtons
       eth-scan
       UserCard
       xmtp

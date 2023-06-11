@@ -18,3 +18,6 @@ Zero-knowledge proofs (ZKPs) are cryptographic protocols that allow a prover to 
     
 
 It's important to note that implementing zero-knowledge proofs can be challenging, and it's recommended to have a solid understanding of cryptography and the chosen ZKP scheme. Additionally, there may be trade-offs between the security, computational complexity, and efficiency of the ZKP protocols, so it's crucial to consider these factors during the design and implementation stages.
+
+howto:
+[[zk workshop info]]

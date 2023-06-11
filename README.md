@@ -1,5 +1,9 @@
+First attempt at touching Ethereum, code is in a broken state and requires additional improvements.
+
+![](funnymeme.png)
+
 # Obsidian Vault
-no docs, notes in Markdown format are in the `knowledge_base` directory.
+Also included are generated Markdown notes in the `knowledge_base` directory.
 
 # Vue 3 + Pinia + TypeScript + Vite
 Vue 3 + Pinia and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.

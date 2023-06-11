@@ -48,3 +48,4 @@
 - A decentralized platform for creating and joining social impact bonds with measurable outcomes 💡🎯
 - A decentralized platform for participation in solarpunk guilds and earning rewards 🌸⭐
 - A decentralized platform for solarpunk gaming and exploring solarpunk solutions 🎲🌿
+[[Ideas2]]

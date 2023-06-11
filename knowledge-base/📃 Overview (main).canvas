@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"file","file":"🎮Human Interaction Units.md","id":"ac71e5918324ddd4","x":-2120,"y":80,"width":793,"height":800},
+		{"type":"file","file":"Zero Knowledge Proofs.md","id":"b3ae51bc4233ef73","x":73,"y":-435,"width":400,"height":400},
+		{"type":"file","file":"zk workshop info.md","id":"447ecfc75a66e3ca","x":-480,"y":-435,"width":360,"height":400},
+		{"type":"file","file":"Spend HiU to unlock wallet secrets.md","id":"70fc1572dc657508","x":-1100,"y":80,"width":800,"height":800},
+		{"type":"file","file":"PoE.md","id":"d13c0a8240e964cc","x":-1640,"y":1040,"width":400,"height":400},
+		{"type":"file","file":"HiU.md","id":"bd6852575b6e05ee","x":-2123,"y":1040,"width":400,"height":400},
+		{"type":"text","text":"games\nping-pong\nhot potato","id":"a44bdb2beacc33a0","x":-2580,"y":80,"width":250,"height":120},
+		{"type":"text","text":" In this scenario, the main metric of user engagement would be the successful back-and-forth interaction between users in the game.","id":"9db9daec56d3fefd","x":-2580,"y":300,"width":250,"height":180},
+		{"type":"file","file":"Excalidraw/Account View.excalidraw.md","id":"69ba78020611b4c3","x":-127,"y":480,"width":400,"height":400},
+		{"type":"text","text":"use XMTP for messaging ","id":"e801a04dc6647e30","x":848,"y":680,"width":250,"height":60},
+		{"type":"text","text":"Implementation Details","id":"5cdb3fd61ed6c0f5","x":973,"y":420,"width":250,"height":60},
+		{"type":"file","file":"XMTP.md","id":"e32aa0b1356ef9b7","x":773,"y":900,"width":662,"height":480},
+		{"type":"text","text":"rewards","id":"0ed3ba131a0d5151","x":-643,"y":1515,"width":250,"height":60},
+		{"type":"text","text":"account information","id":"051d2e6e2e579301","x":-719,"y":1664,"width":250,"height":60},
+		{"type":"text","text":"Bob","id":"c8da9eb1adb8db74","x":226,"y":1401,"width":250,"height":60},
+		{"type":"text","text":"Alice","id":"6b92d8e93bda7cb3","x":-100,"y":1401,"width":250,"height":60},
+		{"type":"text","text":"sends HiU to Bob","id":"964b8a2eee7d2828","x":-85,"y":1515,"width":250,"height":60},
+		{"type":"text","text":"confirms HiU, sending it back to Bob","id":"c5bd818c29c654d2","x":25,"y":1664,"width":250,"height":60},
+		{"type":"file","file":"Excalidraw/timer.excalidraw.md","id":"2f7930b40a48bf94","x":-17,"y":1060,"width":290,"height":281},
+		{"id":"9e263ad93c379a3c","x":-1923,"y":-435,"width":400,"height":400,"type":"file","file":"Pitch.md"},
+		{"type":"file","file":"Ideas2.md","id":"dbc753c0d4fa598c","x":-2780,"y":-435,"width":400,"height":400},
+		{"type":"file","file":"Ideas1.md","id":"2ed8d53b671a8dc5","x":-3420,"y":-435,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a2e178b2906d447a","fromNode":"447ecfc75a66e3ca","fromSide":"right","toNode":"b3ae51bc4233ef73","toSide":"left"},
+		{"id":"22ad58ab4fcd9213","fromNode":"2ed8d53b671a8dc5","fromSide":"right","toNode":"dbc753c0d4fa598c","toSide":"left"},
+		{"id":"9a15138788eec412","fromNode":"dbc753c0d4fa598c","fromSide":"left","toNode":"2ed8d53b671a8dc5","toSide":"right"},
+		{"id":"7228631192b5a69a","fromNode":"ac71e5918324ddd4","fromSide":"right","toNode":"70fc1572dc657508","toSide":"left"},
+		{"id":"fa680e3fdb2b2a95","fromNode":"ac71e5918324ddd4","fromSide":"bottom","toNode":"bd6852575b6e05ee","toSide":"top"},
+		{"id":"74c0f6e0d5432293","fromNode":"ac71e5918324ddd4","fromSide":"bottom","toNode":"d13c0a8240e964cc","toSide":"top"},
+		{"id":"ab93a564775e76e1","fromNode":"a44bdb2beacc33a0","fromSide":"bottom","toNode":"9db9daec56d3fefd","toSide":"top"},
+		{"id":"011d0fcdb2aca965","fromNode":"e801a04dc6647e30","fromSide":"bottom","toNode":"e32aa0b1356ef9b7","toSide":"top"},
+		{"id":"2b641f02c932e2f6","fromNode":"5cdb3fd61ed6c0f5","fromSide":"bottom","toNode":"e801a04dc6647e30","toSide":"top"},
+		{"id":"896be1b4ed6cd38d","fromNode":"0ed3ba131a0d5151","fromSide":"bottom","toNode":"051d2e6e2e579301","toSide":"top"},
+		{"id":"b2965ce118a1603a","fromNode":"6b92d8e93bda7cb3","fromSide":"bottom","toNode":"964b8a2eee7d2828","toSide":"top"},
+		{"id":"edbf8b5e201ceae3","fromNode":"964b8a2eee7d2828","fromSide":"right","toNode":"c8da9eb1adb8db74","toSide":"left"},
+		{"id":"449de05ba234706b","fromNode":"c8da9eb1adb8db74","fromSide":"bottom","toNode":"c5bd818c29c654d2","toSide":"top"},
+		{"id":"55944d807c9977a8","fromNode":"c5bd818c29c654d2","fromSide":"left","toNode":"6b92d8e93bda7cb3","toSide":"left"},
+		{"id":"414b19fd8dee727d","fromNode":"ac71e5918324ddd4","fromSide":"top","toNode":"9e263ad93c379a3c","toSide":"bottom"}
+	]
+}

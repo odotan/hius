@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Stop leaking the API key from textgenerator config
+knowledge-base/.obsidian/plugins/obsidian-textgenerator-plugin/data.json
+
+knowledge-base/.obsidian/plugins/obsidian-textgenerator-plugin/

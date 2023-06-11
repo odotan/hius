@@ -1,6 +1,5 @@
 
-I want you to act as an answerer on StackOverflow. You can provide code snippets, sample tables and outputs to support your answer. `[Insert technical question]`
-
+I want you to act as an answerer on StackOverflow. You can provide code snippets, sample tables and outputs to support your answer. 
 
 give me a scientific acronym that plays on the idea of taking an idea and using the rubber duck algorithm to solve a specific problem
 

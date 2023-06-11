@@ -21,3 +21,5 @@ To prevent cheating and spamming in the HiU Proof of Engagement game, several me
 10. Gamification: Design in-game incentives that reward genuine engagement instead of inspiring cheating or spamming. For example, offer bonuses for meaningful interactions, or implement a reputation system where users gain standing based on their contributions to the community.
 
 By implementing a combination of these mechanisms, the HiU Proof of Engagement game can minimize cheating and spamming while fostering genuine human interaction.
+
+[[Replay Attack]]

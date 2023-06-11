@@ -4,193 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "730fc88e6b57fd03",
+        "id": "064051616e178fbf",
         "type": "tabs",
         "children": [
           {
-            "id": "9b41f0bc6f156fb1",
+            "id": "7d216df9d38d3486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIU.md",
+                "file": "Better.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "655a9ebef365fed6",
+            "id": "aeac3547091ef1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XMTP.md",
+                "file": "HiU.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "563c30a117613055",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-09 16.01.42.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d2ea70b016e4dc64",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3e98f4306bbaf172",
+            "id": "16ba8750e75c10fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai-prompts/XMTP.md",
+                "file": "Replay Attack.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8464884cc7eff42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sci-fi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57529c3a69871a9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HIU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "577b7d53cd6801e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c18900711283819e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e45f3bbaf20e682d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sci-fi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80405800af1e13d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sci-fi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76414f5577ca90c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sci-fi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72772f171bf99093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spend HiU to unlock wallet secrets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bab81aefa872537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sci-fi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e05c1c14e02a9cc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HowToHiu.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "7fbdc8111b8747d8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sci-fi.md",
+                "file": "Replay Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sci-fi.md",
+                "file": "Replay Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sci-fi.md"
+                "file": "Replay Attack.md"
               }
             }
           }
@@ -320,33 +174,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4bab81aefa872537",
+  "active": "16ba8750e75c10fc",
   "lastOpenFiles": [
-    "PoE.md",
-    "Excalidraw/Account View.excalidraw.md",
     "Excalidraw/HowToHiu.excalidraw.md",
-    "Excalidraw/SpendingHiu.excalidraw.md",
-    "Spend HiU to unlock wallet secrets.md",
-    "sci-fi.md",
+    "🎮Human Interaction Units.md",
+    "Better.md",
+    "📃 Overview (main).canvas",
+    "Pitch.md",
+    "HiU.md",
     "How to solve cheating.md",
-    "Better with zk.md",
-    "Excalidraw/Drawing 2023-06-10 19.40.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-09 22.56.58.excalidraw.md",
-    "HIU.md",
-    "Ideas2.md",
-    "Ideas1.md",
-    "game design.md",
-    "Concepts.md",
-    "ai-prompts/Explainer.md",
-    "ai-prompts/XMTP.md",
-    "random.md",
-    "XMTP.md",
+    "Spend HiU to unlock wallet secrets.md",
+    "Replay Attack.md",
     "Zero Knowledge Proofs.md",
-    "Untitled.canvas",
-    "zk.md",
+    "zk workshop info.md",
+    "XMTP.md",
+    "PoE.md",
+    "Concepts.md",
     "Excalidraw/Drawing 2023-06-09 16.01.42.excalidraw.md",
+    "Excalidraw/Account View.excalidraw.md",
+    "game design.md",
+    "ai-prompts/Explainer.md",
+    "Ideas1.md",
+    "Ideas2.md",
+    "Excalidraw/gameexplained.excalidraw.md",
+    "Excalidraw/timer.excalidraw.md",
+    "random.md",
+    "ai-prompts/XMTP.md",
+    "Excalidraw/SpendingHiu.excalidraw.md",
     "Excalidraw/Drawing 2023-06-09 22.56.57_0.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-09 22.56.57.excalidraw.md",
     "Pasted image 20230610024803.png",
     "knowledge-base",
     "node_modules/pinia/dist/pinia.prod.cjs",
@@ -356,10 +211,8 @@
     "node_modules/pinia/dist/pinia.d.ts",
     "node_modules/pinia/dist/pinia.esm-browser.js",
     "node_modules/pinia/dist/pinia.cjs",
-    "node_modules/pinia/README.md",
     "node_modules/pinia/package.json",
     "node_modules/pinia/index.cjs",
-    "node_modules/vue-demi/README.md",
     "node_modules/undici/docs/assets/lifecycle-diagram.png",
     "app/src/assets/vue.svg",
     "app/public/vite.svg",
