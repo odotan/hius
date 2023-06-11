@@ -1,5 +1,5 @@
 sudoku
-verify not find
+**verify not find**
 
 StarkNet & cairo
 - not private (results go on-chain)
@@ -17,4 +17,4 @@ zkapp-cli
 
 zkvm bonsai
 
-encode
+-> people from encode

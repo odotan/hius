@@ -11,6 +11,8 @@
   "dependencies": {
     "@vueuse/core": "^10.1.2",
     "@xmtp/xmtp-js": "^9.1.6",
+    "axios": "^1.4.0",
+    "dotenv": "^16.1.4",
     "ethers": "^5.7.2",
     "js-base64": "^3.7.5",
     "normalize.css": "^8.0.1",

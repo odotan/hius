@@ -1,5 +1,5 @@
 import {bytesToBase64, sha256} from "./common";
-
+import axios from "axios";
 
 interface HiuMessage {
     id: string;
@@ -38,6 +38,18 @@ export async function hiu (){
         // return true if the string contains "HiU"
         const prefix = "hi"
         return str.includes(prefix)
+    }
+
+
+   async function getLatestBlockHash() {
+        const apiKey = "5TNZQS5Z9R2R7F5VZ46V4IN2SAK7VPFJEV"
+        const latestBlockUrl = `https://api.etherscan.io/api?module=proxy&action=eth_blockNumber&apikey=${apiKey}`;
+        const response = await axios.get(latestBlockUrl);
+
+        const latestBlockNumber = response.data.result
+        const blockUrl = `https://api.etherscan.io/api?module=proxy&action=eth_getBlockByNumber&tag=${latestBlockNumber}&boolean=true&apikey=${apiKey}`;
+        const response2 = await axios.get(blockUrl);
+        return response2.data.result.hash
     }
 
 }
