@@ -1,5 +1,7 @@
 First attempt at touching Ethereum, code is in a broken state and requires additional improvements.
 
+![](screenshot.png)
+
 ![](funnymeme.png)
 
 # Obsidian Vault

@@ -16,8 +16,7 @@ Proof of Engagement ([[PoE]]) in an app or website can be used as a reward/scori
 
 Proof of (human) engagement is yet another proof-of-something that has still not been cracked. If we can turn mining from something computers do (as proof of work or as proof of stake), into something humans can do, it could take ethereum/crypto in whole new directions.  
 
-Such proofs can be generated when a user opens the app or website and uses public entropy created by some network such as block hashes and runs a hash-cash like hashing algorithm on the entropy to find nonces that produce certain hashes.
-Valid nonces/hashes can be broadcast over the network or sent to another user to prove that the user engaged in the app.
+Such proofs can be generated when a user opens the app or website and uses public entropy created by some network such as block hashes and runs a hash-cash like hashing algorithm on the entropy to find nonces that produce certain hashes. Valid nonces/hashes can be broadcast over the network or sent to another user to prove that the user engaged in the app.
 A ping-pong game of such proofs can be played to accumulate points. These points could then be used to receive rewards, achieve certain functions, exchanged with other users, exchanged for other points, or “withdrawn” to an external address.
 
 A user starts a game by finding a user or group to play with, and (#) taps a “HiU” button (Human interaction Unit).

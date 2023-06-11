@@ -37,14 +37,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replay Attack.md",
+                "file": "🎮Human Interaction Units.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfa31c83e3dd5371",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "📃 Overview (main).canvas",
+                "viewState": {
+                  "x": -992.5,
+                  "y": 644.5,
+                  "zoom": -2.2703195972749373
+                }
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Replay Attack.md",
+                "file": "📃 Overview (main).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Replay Attack.md",
+                "file": "📃 Overview (main).canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Replay Attack.md"
+                "file": "📃 Overview (main).canvas"
               }
             }
           }
@@ -174,34 +189,34 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "16ba8750e75c10fc",
+  "active": "dfa31c83e3dd5371",
   "lastOpenFiles": [
-    "Excalidraw/HowToHiu.excalidraw.md",
-    "🎮Human Interaction Units.md",
-    "Better.md",
+    "Challenges we ran into.md",
     "📃 Overview (main).canvas",
+    "🎮Human Interaction Units.md",
+    "random.md",
+    "PoE.md",
     "Pitch.md",
-    "HiU.md",
+    "Ideas2.md",
+    "Ideas1.md",
     "How to solve cheating.md",
-    "Spend HiU to unlock wallet secrets.md",
+    "game design.md",
+    "Concepts.md",
     "Replay Attack.md",
+    "Spend HiU to unlock wallet secrets.md",
+    "Better.md",
+    "Excalidraw/Account View.excalidraw.md",
+    "Excalidraw/gameexplained.excalidraw.md",
+    "Excalidraw/HowToHiu.excalidraw.md",
+    "Excalidraw/timer.excalidraw.md",
+    "Excalidraw/SpendingHiu.excalidraw.md",
+    "HiU.md",
+    "XMTP.md",
     "Zero Knowledge Proofs.md",
     "zk workshop info.md",
-    "XMTP.md",
-    "PoE.md",
-    "Concepts.md",
-    "Excalidraw/Drawing 2023-06-09 16.01.42.excalidraw.md",
-    "Excalidraw/Account View.excalidraw.md",
-    "game design.md",
     "ai-prompts/Explainer.md",
-    "Ideas1.md",
-    "Ideas2.md",
-    "Excalidraw/gameexplained.excalidraw.md",
-    "Excalidraw/timer.excalidraw.md",
-    "random.md",
     "ai-prompts/XMTP.md",
-    "Excalidraw/SpendingHiu.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-09 22.56.57_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-09 16.01.42.excalidraw.md",
     "Pasted image 20230610024803.png",
     "knowledge-base",
     "node_modules/pinia/dist/pinia.prod.cjs",
